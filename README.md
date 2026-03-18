@@ -4,7 +4,7 @@ Museum Docent Agent is built with [Google Agent Development Kit (ADK)](https://g
 
 ## Live Demo
 
-**Cloud Run URL:** `https://museum-guide-699914153603.europe-west1.run.app`
+**Cloud Run URL:** Provided separately in submission form
 
 ## Architecture
 
