@@ -101,7 +101,7 @@ museum-guide-agent/
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/museum-guide-agent.git
+git clone https://github.com/MabelHsu/museum-guide-agent.git
 cd museum-guide-agent
 ```
 
